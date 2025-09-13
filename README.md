@@ -55,3 +55,8 @@ adaptando-o para diferentes necessidades de negócios ou projetos pessoais.
 
 ```env
 VITE_API_URL= url + sua_chave_aqui
+```
+
+---
+
+🚀 Segue o link para visualização do projeto: https://chatbot-com-google-gemini-api.vercel.app/
