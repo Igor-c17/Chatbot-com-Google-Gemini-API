@@ -59,4 +59,4 @@ VITE_API_URL= url + sua_chave_aqui
 
 ---
 
-🚀 Segue o link para visualização do projeto: https://chatbot-com-google-gemini-api.vercel.app/
+🚀 Segue o link para visualização do projeto: <a href="https://chatbot-com-google-gemini-api.vercel.app" target="_blank">https://chatbot-com-google-gemini-api.vercel.app/</a>
